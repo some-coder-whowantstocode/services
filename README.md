@@ -15,7 +15,7 @@ Peer.js is a JavaScript file for WebRTC peer. It creates a class and provides al
 
 #### Features
 
-- **Creating Offers:** The service allows you to create offers for peer-to-peer connections.
+- **Creating Offers & Answers:** The service allows you to create offers and aswers for peer-to-peer connections or you might make a code a little flexible and make it a many-to-many with mesh.
 - **Sending and Receiving:** The service provides functionality for sending and receiving data over the peer-to-peer connection.
 - **Event Listeners:** The service includes event listeners for various events, such as ICE candidates.
 
