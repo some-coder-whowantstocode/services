@@ -29,6 +29,3 @@ Stay tuned for more custom services that will be added to this repository.
 
 Contributions are welcome. Please feel free to submit a pull request or open an issue.
 
-## License
-
-MIT
